@@ -1,0 +1,16 @@
+.OverFlowScrolling {
+    overflow: auto;
+    /* overflow-y: scroll;
+    -webkit-overflow-scrolling: touch; */
+}
+
+.ChosenBoardShowImg {
+    object-fit: cover;
+    height: 5rem;
+    width: 10rem;
+}
+
+/* .overflow-scrolling {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+} */
